@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Domain Driven Design, Command Query Responsibility Segregation and Event Sourcing. An approach for robust scalable business applications."
+disableKinds = ["taxonomyTerm"]
